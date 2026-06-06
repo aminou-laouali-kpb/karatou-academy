@@ -1,0 +1,141 @@
+{
+  "app": {
+    "name": "Karatou Academy",
+    "tagline": "Dandalin koyo na AI a Afirka"
+  },
+  "nav": {
+    "home": "Gida",
+    "modules": "Darussa",
+    "glossary": "Ƙamus",
+    "profile": "Bayanai"
+  },
+  "common": {
+    "continue": "Ci gaba",
+    "back": "Koma baya",
+    "next": "Na gaba",
+    "previous": "Na baya",
+    "save": "Ajiye",
+    "saving": "Ana ajiyewa…",
+    "saved": "An ajiye",
+    "loading": "Ana ɗaukowa…",
+    "login": "Shiga",
+    "logout": "Fita",
+    "register": "Buɗe asusu",
+    "guest": "Yanayin baƙo",
+    "search": "Nema",
+    "free": "Kyauta",
+    "optional": "Na zaɓi",
+    "skip": "Tsallake",
+    "start": "Fara",
+    "minutes": "minti"
+  },
+  "auth": {
+    "login_title": "Shiga",
+    "register_title": "Buɗe asusu",
+    "email": "Adireshin imel",
+    "password": "Kalmar sirri",
+    "phone": "Lambar waya",
+    "otp": "Lambar tabbatarwa",
+    "send_otp": "Aika lamba",
+    "verify_otp": "Tabbatar",
+    "or": "ko",
+    "no_account": "Ba ka da asusu?",
+    "have_account": "Kana da asusu?",
+    "continue_as_guest": "Ci gaba a matsayin baƙo"
+  },
+  "onboarding": {
+    "language_title": "Zaɓi harshenka",
+    "language_subtitle": "Za ka iya canza shi a kowane lokaci",
+    "promise_title": "Barka da zuwa Karatou Academy",
+    "promise_body": "Dandalin koyo na AI a Afirka mai magana da Faransanci. Koya, sami takardar shaida, ci gaba.",
+    "diagnostic_title": "Mene ne burinka?",
+    "diagnostic_subtitle": "Wannan yana taimaka mana mu daidaita hanyarka (na zaɓi)",
+    "diagnostic_job": "Nemo aiki",
+    "diagnostic_business": "Fara kasuwanci",
+    "diagnostic_skills": "Ƙware a AI",
+    "signup_title": "Buɗe asusunka",
+    "signup_subtitle": "Zaɓi yadda za ka fara",
+    "signup_email": "Da imel",
+    "signup_phone": "Da waya",
+    "signup_guest": "Ci gaba ba tare da asusu ba",
+    "guest_note": "Yanayin baƙo yana ba da damar darussa biyu na farko ba tare da asusu ba."
+  },
+  "dashboard": {
+    "welcome": "Sannu",
+    "resume": "Ci gaba",
+    "continue_learning": "Ci gaba da koyo",
+    "your_progress": "Ci gabanka",
+    "no_progress": "Ba ka fara darasi ba tukuna.",
+    "browse_modules": "Duba darussa",
+    "completed": "An gama"
+  },
+  "modules": {
+    "title": "Darussa",
+    "subtitle": "Bincika hanyoyin koyonmu",
+    "lessons": "darussa",
+    "free_preview": "Samfur kyauta",
+    "locked": "An kulle",
+    "view": "Duba darasi",
+    "empty": "Babu darussa a halin yanzu."
+  },
+  "learn": {
+    "objective": "Manufa",
+    "next_step": "Mataki na gaba",
+    "previous_step": "Mataki na baya",
+    "lesson_complete": "An gama darasi!",
+    "lesson_complete_body": "Barka, ka gama wannan darasi.",
+    "next_lesson": "Darasi na gaba",
+    "back_to_module": "Koma darasi",
+    "quiz_correct": "Daidai!",
+    "quiz_wrong": "Amsa mara daidai",
+    "quiz_check": "Duba",
+    "reflection_placeholder": "Rubuta tunaninka a nan… (ana ajiyewa kai tsaye)",
+    "glossary_terms": "Mahimman kalmomi",
+    "reflection": "Tunani",
+    "not_available_lang": "Babu a wannan harshe — ana nuna Faransanci",
+    "watch_video": "Kalli bidiyo",
+    "practice": "Aikin koyo",
+    "example": "Misali"
+  },
+  "certificate": {
+    "issued": "An bayar a",
+    "expires": "Yana aiki har",
+    "active": "Mai aiki",
+    "expired": "Ya ƙare",
+    "revoked": "An soke",
+    "verify_title": "Tabbatar da takardar shaida",
+    "holder": "Mai shi",
+    "module": "Darasin da aka tabbatar",
+    "organization": "Ƙungiya",
+    "my_certificates": "Takardun shaidata",
+    "no_certificates": "Ba ka da takardar shaida tukuna.",
+    "not_found": "Ba a sami takardar shaida ba",
+    "not_found_body": "Babu takardar shaida da ta dace da wannan lamba."
+  },
+  "glossary": {
+    "title": "Ƙamus",
+    "subtitle": "Dukan kalmomin AI, an bayyana su a sauƙaƙe",
+    "search_placeholder": "Nemo kalma…",
+    "no_results": "Ba a sami kalma ba."
+  },
+  "profile": {
+    "title": "Bayanai",
+    "language": "Harshe",
+    "country": "Ƙasa",
+    "account": "Asusu",
+    "edit": "Gyara bayanai"
+  },
+  "admin": {
+    "title": "Gudanarwa",
+    "dashboard": "Allon bayanai",
+    "modules": "Darussa",
+    "new_module": "Sabon darasi",
+    "edit_module": "Gyara darasi",
+    "analytics": "Ƙididdiga",
+    "published": "An buga",
+    "draft": "Tsari",
+    "save": "Ajiye",
+    "lessons": "Darussa",
+    "blocks": "Sassan abun ciki"
+  }
+}

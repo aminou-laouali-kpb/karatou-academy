@@ -1,0 +1,141 @@
+{
+  "app": {
+    "name": "Karatou Academy",
+    "tagline": "The reference platform to master AI in Africa"
+  },
+  "nav": {
+    "home": "Home",
+    "modules": "Modules",
+    "glossary": "Glossary",
+    "profile": "Profile"
+  },
+  "common": {
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "save": "Save",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "loading": "Loading…",
+    "login": "Log in",
+    "logout": "Log out",
+    "register": "Create account",
+    "guest": "Guest mode",
+    "search": "Search",
+    "free": "Free",
+    "optional": "Optional",
+    "skip": "Skip",
+    "start": "Start",
+    "minutes": "min"
+  },
+  "auth": {
+    "login_title": "Log in",
+    "register_title": "Create account",
+    "email": "Email address",
+    "password": "Password",
+    "phone": "Phone number",
+    "otp": "Verification code",
+    "send_otp": "Send code",
+    "verify_otp": "Verify",
+    "or": "or",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "continue_as_guest": "Continue as guest"
+  },
+  "onboarding": {
+    "language_title": "Choose your language",
+    "language_subtitle": "You can change it anytime",
+    "promise_title": "Welcome to Karatou Academy",
+    "promise_body": "The reference platform to master AI in French-speaking Africa. Learn, get certified, grow.",
+    "diagnostic_title": "What is your goal?",
+    "diagnostic_subtitle": "This helps us tailor your path (optional)",
+    "diagnostic_job": "Find a job",
+    "diagnostic_business": "Start a business",
+    "diagnostic_skills": "Master AI",
+    "signup_title": "Create your account",
+    "signup_subtitle": "Choose how to begin",
+    "signup_email": "With an email",
+    "signup_phone": "With a phone",
+    "signup_guest": "Continue without an account",
+    "guest_note": "Guest mode gives access to the first 2 lessons without an account."
+  },
+  "dashboard": {
+    "welcome": "Hello",
+    "resume": "Resume",
+    "continue_learning": "Continue learning",
+    "your_progress": "Your progress",
+    "no_progress": "You haven't started a lesson yet.",
+    "browse_modules": "Browse modules",
+    "completed": "Completed"
+  },
+  "modules": {
+    "title": "Modules",
+    "subtitle": "Explore our learning paths",
+    "lessons": "lessons",
+    "free_preview": "Free preview",
+    "locked": "Locked",
+    "view": "View module",
+    "empty": "No modules available yet."
+  },
+  "learn": {
+    "objective": "Objective",
+    "next_step": "Next step",
+    "previous_step": "Previous step",
+    "lesson_complete": "Lesson complete!",
+    "lesson_complete_body": "Well done, you've completed this lesson.",
+    "next_lesson": "Next lesson",
+    "back_to_module": "Back to module",
+    "quiz_correct": "Correct!",
+    "quiz_wrong": "Incorrect answer",
+    "quiz_check": "Check",
+    "reflection_placeholder": "Write your reflection here… (auto-saved)",
+    "glossary_terms": "Key terms",
+    "reflection": "Reflection",
+    "not_available_lang": "Not available in this language — showing French",
+    "watch_video": "Watch the video",
+    "practice": "Guided practice",
+    "example": "Example"
+  },
+  "certificate": {
+    "issued": "Issued on",
+    "expires": "Valid until",
+    "active": "Active",
+    "expired": "Expired",
+    "revoked": "Revoked",
+    "verify_title": "Certificate verification",
+    "holder": "Holder",
+    "module": "Certified module",
+    "organization": "Organization",
+    "my_certificates": "My certificates",
+    "no_certificates": "You don't have any certificate yet.",
+    "not_found": "Certificate not found",
+    "not_found_body": "No certificate matches this identifier."
+  },
+  "glossary": {
+    "title": "Glossary",
+    "subtitle": "All AI terms, simply explained",
+    "search_placeholder": "Search a term…",
+    "no_results": "No term found."
+  },
+  "profile": {
+    "title": "Profile",
+    "language": "Language",
+    "country": "Country",
+    "account": "Account",
+    "edit": "Edit profile"
+  },
+  "admin": {
+    "title": "Administration",
+    "dashboard": "Dashboard",
+    "modules": "Modules",
+    "new_module": "New module",
+    "edit_module": "Edit module",
+    "analytics": "Analytics",
+    "published": "Published",
+    "draft": "Draft",
+    "save": "Save",
+    "lessons": "Lessons",
+    "blocks": "Content blocks"
+  }
+}

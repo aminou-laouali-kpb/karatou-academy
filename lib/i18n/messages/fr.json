@@ -1,0 +1,141 @@
+{
+  "app": {
+    "name": "Karatou Academy",
+    "tagline": "La plateforme de référence pour maîtriser l'IA en Afrique"
+  },
+  "nav": {
+    "home": "Accueil",
+    "modules": "Modules",
+    "glossary": "Glossaire",
+    "profile": "Profil"
+  },
+  "common": {
+    "continue": "Continuer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "save": "Enregistrer",
+    "saving": "Enregistrement…",
+    "saved": "Enregistré",
+    "loading": "Chargement…",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "register": "Créer un compte",
+    "guest": "Mode invité",
+    "search": "Rechercher",
+    "free": "Gratuit",
+    "optional": "Optionnel",
+    "skip": "Passer",
+    "start": "Commencer",
+    "minutes": "min"
+  },
+  "auth": {
+    "login_title": "Connexion",
+    "register_title": "Créer un compte",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "phone": "Numéro de téléphone",
+    "otp": "Code de vérification",
+    "send_otp": "Envoyer le code",
+    "verify_otp": "Vérifier",
+    "or": "ou",
+    "no_account": "Pas encore de compte ?",
+    "have_account": "Vous avez déjà un compte ?",
+    "continue_as_guest": "Continuer en tant qu'invité"
+  },
+  "onboarding": {
+    "language_title": "Choisissez votre langue",
+    "language_subtitle": "Vous pourrez la modifier à tout moment",
+    "promise_title": "Bienvenue sur Karatou Academy",
+    "promise_body": "La plateforme de référence pour maîtriser l'IA en Afrique francophone. Formez-vous, certifiez-vous, progressez.",
+    "diagnostic_title": "Quel est votre objectif ?",
+    "diagnostic_subtitle": "Cela nous aide à personnaliser votre parcours (optionnel)",
+    "diagnostic_job": "Trouver un emploi",
+    "diagnostic_business": "Créer une activité",
+    "diagnostic_skills": "Maîtriser l'IA",
+    "signup_title": "Créez votre compte",
+    "signup_subtitle": "Choisissez comment commencer",
+    "signup_email": "Avec un e-mail",
+    "signup_phone": "Avec un téléphone",
+    "signup_guest": "Continuer sans compte",
+    "guest_note": "Le mode invité donne accès aux 2 premières leçons sans compte."
+  },
+  "dashboard": {
+    "welcome": "Bonjour",
+    "resume": "Reprendre",
+    "continue_learning": "Continuer l'apprentissage",
+    "your_progress": "Votre progression",
+    "no_progress": "Vous n'avez pas encore commencé de leçon.",
+    "browse_modules": "Parcourir les modules",
+    "completed": "Terminé"
+  },
+  "modules": {
+    "title": "Modules",
+    "subtitle": "Explorez nos parcours de formation",
+    "lessons": "leçons",
+    "free_preview": "Aperçu gratuit",
+    "locked": "Verrouillé",
+    "view": "Voir le module",
+    "empty": "Aucun module disponible pour le moment."
+  },
+  "learn": {
+    "objective": "Objectif",
+    "next_step": "Étape suivante",
+    "previous_step": "Étape précédente",
+    "lesson_complete": "Leçon terminée !",
+    "lesson_complete_body": "Bravo, vous avez complété cette leçon.",
+    "next_lesson": "Leçon suivante",
+    "back_to_module": "Retour au module",
+    "quiz_correct": "Bonne réponse !",
+    "quiz_wrong": "Réponse incorrecte",
+    "quiz_check": "Vérifier",
+    "reflection_placeholder": "Écrivez votre réflexion ici… (sauvegarde automatique)",
+    "glossary_terms": "Termes clés",
+    "reflection": "Réflexion",
+    "not_available_lang": "Non disponible dans cette langue — affichage en français",
+    "watch_video": "Regarder la vidéo",
+    "practice": "Pratique guidée",
+    "example": "Exemple"
+  },
+  "certificate": {
+    "issued": "Délivré le",
+    "expires": "Valide jusqu'au",
+    "active": "Actif",
+    "expired": "Expiré",
+    "revoked": "Révoqué",
+    "verify_title": "Vérification du certificat",
+    "holder": "Titulaire",
+    "module": "Module certifié",
+    "organization": "Organisation",
+    "my_certificates": "Mes certifications",
+    "no_certificates": "Vous n'avez pas encore de certificat.",
+    "not_found": "Certificat introuvable",
+    "not_found_body": "Aucun certificat ne correspond à cet identifiant."
+  },
+  "glossary": {
+    "title": "Glossaire",
+    "subtitle": "Tous les termes de l'IA, expliqués simplement",
+    "search_placeholder": "Rechercher un terme…",
+    "no_results": "Aucun terme trouvé."
+  },
+  "profile": {
+    "title": "Profil",
+    "language": "Langue",
+    "country": "Pays",
+    "account": "Compte",
+    "edit": "Modifier le profil"
+  },
+  "admin": {
+    "title": "Administration",
+    "dashboard": "Tableau de bord",
+    "modules": "Modules",
+    "new_module": "Nouveau module",
+    "edit_module": "Modifier le module",
+    "analytics": "Statistiques",
+    "published": "Publié",
+    "draft": "Brouillon",
+    "save": "Enregistrer",
+    "lessons": "Leçons",
+    "blocks": "Blocs de contenu"
+  }
+}
